@@ -1,2 +1,3 @@
 # toc
-Table of contents for all school projects.
+
+## NOTE: This repositroy is being moved to [0x81-c.github.io].
